@@ -11,6 +11,6 @@ Here is a picture of Mario
 
 Herenis a list of the reasons why Mario is so great
 
--He is brave
--He is italian
--He has a hat
+- He is brave
+- He is italian
+- He has a hat
