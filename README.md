@@ -8,3 +8,9 @@ First let me give you the link to [nintendo](https://www.nintendo.com/us/?srslti
 Here is a picture of Mario
 
 ![A picture of Mario](https://en.wikipedia.org/wiki/Mario#/media/File:Mario_by_Shigehisa_Nakaue.png)
+
+Herenis a list of the reasons why Mario is so great
+
+-He is brave
+-He is italian
+-He has a hat
